@@ -13,7 +13,7 @@ node {
 	name: 'Version'), 
 	choice(choices: 
 	[
-		'dev1.acirrustech.com', 
+		'prod1.myawstestclass.com', 
 		'qa1.acirrustech.com', 
 		'stage1.acirrustech.com', 
 		'prod1.acirrustech.com'], 
